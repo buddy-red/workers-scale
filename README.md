@@ -60,4 +60,4 @@
 
 ### 数据使用
 
-该操作的输出可用于配置一个进程，该进程将自动扩展您的本地部署/自托管部署。此存储仓包含一个[example_pipeline](https://github.com/buddy-red/workers-scale/tree/main/example_pipeline)，根据可用和所需工作器的数量，它使用Terraform创建或删除工作器。可随意复制流水线并根据您的需求进行调整，或者创建您自己的扩展解决方案。
+该操作的输出可用于配置一个进程，该进程将自动扩展您的本地部署/自托管部署。此存储仓包含一个[example_pipeline](https://github.com/buddy-red/workers-scale/tree/master/example_pipeline)，根据可用和所需工作器的数量，它使用Terraform创建或删除工作器。可随意复制流水线并根据您的需求进行调整，或者创建您自己的扩展解决方案。
